@@ -1,16 +1,16 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: a program that prints alphabets in lower case except some alphabets
+ * Description:program that prints alphabets in lower case except some
  * Return: 0
  */
 int main(void)
 {
-	char c = 'a';
+	§cchar c = 'a';
 
 	while (c <= 'z')
 	{
-		if (c != 'e' && != 'q')
+		if (c != 'e' && c != 'q')
 		{
 			putchar(c);
 		}
