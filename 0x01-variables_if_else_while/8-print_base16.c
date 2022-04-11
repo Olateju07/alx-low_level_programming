@@ -6,7 +6,7 @@
  * starting from 0, follow by a new line
  * Return; 0
  */
-int main(o)
+int main(void)
 {
 	char ch;
 
