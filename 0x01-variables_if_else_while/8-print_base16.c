@@ -4,7 +4,7 @@
  * main - entry point for program
  * Description; print all numbers of base 16
  * starting from 0, follow by a new line
- * Return; 0
+ * Return: Always 0 (Success)0
  */
 int main(void)
 {
