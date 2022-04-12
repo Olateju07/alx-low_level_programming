@@ -25,7 +25,7 @@ int main(void)
 			if (d != c && d < c)
 			{
 				putchar('0' + d);
-				putchar('0' + d);
+				putchar('0' + c);
 
 				if (c + d != 17)
 				{
@@ -33,7 +33,6 @@ int main(void)
 					putchar(' ');
 				}
 			}
-			
 			c++;
 		}
 		d++;
