@@ -3,6 +3,8 @@
 /**
  * print-alphabet - print alphabet
  *
+ * Description: printing alphabets
+ *
  * Return: void
  */
 void print_alphabet(void)
