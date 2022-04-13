@@ -7,7 +7,7 @@
 
 void print_alphabet_x10(void)
 {
-	int rouund = 0;
+	int round = 0;
 
 	char letter = 'a';
 
