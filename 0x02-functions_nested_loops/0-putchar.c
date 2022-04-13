@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * main - prints -putchar
  *
  * Descriptio: prints _putchar
  *
@@ -17,7 +17,7 @@ int main(void)
 
 	for (i = 0; i < 8; i++)
 	{
-		_putchar(text[1]);
+		_putchar(text[i]);
 	}
 	_putchar('\n');
 
