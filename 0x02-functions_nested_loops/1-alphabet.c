@@ -1,12 +1,10 @@
 #include "main.h"
 
 /**
- * print-alphabet - print alphabet
- *
- * Description: printing alphabets
- *
- * Return: void
+ * print_alphabet - Entry point
+ * Return: 0
  */
+
 void print_alphabet(void)
 {
 	char letter = 'a';
